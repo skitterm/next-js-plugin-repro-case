@@ -4,7 +4,7 @@
     [
       "prismjs",
       {
-        "languages": ["all"]
+        "languages": "all"
       }
     ]
   ]
